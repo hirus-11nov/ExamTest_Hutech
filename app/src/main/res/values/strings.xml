@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">BuiTrungHieu</string>
+    <string-array name="list_array">
+        <item name="item1">Wave Alpha</item>
+        <item name="item2">Wave RSX</item>
+        <item name="item3">Exciter 135</item>
+        <item name="item4">Exciter 150</item>
+        <item name="item5">Honda Airblade</item>
+        <item name="item6">Novou</item>
+        <item name="item7">Kawasaki Z1000</item>
+        <item name="item8">SH 150i</item>
+        <item name="item9">PCX</item>
+        <item name="item10">Xe đạp chiến, bô không tiếng!</item>
+    </string-array>
+</resources>
